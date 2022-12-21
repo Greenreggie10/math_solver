@@ -27,8 +27,11 @@ public class Points {
         points += 60;
         System.out.println(points);
 
+        System.out.println();
+        System.out.println();
+        System.out.println();
 
-        System.out.println(points);
+        System.out.println("The accumulative number " + points);
 
         // Compare your result to what's on Learn the Part.
 
