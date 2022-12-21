@@ -8,23 +8,26 @@ public class Points {
 
         System.out.println("Harry was caught wandering the halls. -50 points for Gryffindor");
         //update points here
-        points = points - 50;
+        points -= 50;
         System.out.println(points);
         System.out.println("Harry was being cheeky in class. -3 points for Gryffindor");
         //update points here
-        points = points - 3;
+        points -= 3;
         System.out.println(points);
         System.out.println("Hermione got full marks on Lockhart's quiz. 30 points for Gryffindor");
         //update points here
-        points = points + 30;
+        points += 30;
         System.out.println(points);
         System.out.println("Ron won the underground chess game. 100 points for Gryffindor");
         //update points here
-        points = points + 100;
+        points += 100;
         System.out.println(points);
         System.out.println("Harry defeated Quirrell. 60 points for Gryffindor");
         //update points here
-        points = points + 60;
+        points += 60;
+        System.out.println(points);
+
+
         System.out.println(points);
 
         // Compare your result to what's on Learn the Part.
