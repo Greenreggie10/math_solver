@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="055bfd78-40df-4501-9341-343d0b42594c" name="Changes" comment="&quot;variable update&quot;">
+    <list default="true" id="055bfd78-40df-4501-9341-343d0b42594c" name="Changes" comment="&quot;last last&quot;">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Points.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Points.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671587946919</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;last last&quot;">
+      <created>1671588243341</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671588243341</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;variable update&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;variable update&quot;" />
+    <MESSAGE value="&quot;last last&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;last last&quot;" />
   </component>
 </project>
